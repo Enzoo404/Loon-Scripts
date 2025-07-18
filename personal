@@ -194,4 +194,6 @@ http-response ^https?:\/\/creditcardapp\.bankcomm\.(com|cn)\/rcg\/index\.html\?c
 
 #✅
 [MITM]
-hostname = acs.m.taobao.com, heic.alicdn.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com,list-app-m.i4.cn,apps.api.ke.com,elemecdn.com, fuss10.elemecdn.com, cube.elemecdn.com, www1.elecfans.com, nr-op.elemecdn.com,
+hostname = acs.m.taobao.com, heic.alicdn.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com,list-app-m.i4.cn,apps.api.ke.com,elemecdn.com, fuss10.elemecdn.com, cube.elemecdn.com, www1.elecfans.com, nr-op.elemecdn.com,static.95508.com,v.icbc.com.cn,static.95508.com, mps.95508.com,appapi.huazhu.com, hweb-hotel.huazhu.com, hweb-manager.huazhu.com,api-ac.liepin.com, api-wanda.liepin.com,
+img.meituan.net, s3plus.meituan.net, flowplus.meituan.net,creditcardapp.bankcomm.cn, creditcardapp.bankcomm.com, creditcard.bankcomm.cn, creditcard.bankcomm.com,home.mi.com,adpai.thepaper.cn,api.cloud.189.cn,cdn.cmgadx.com,webappcfg.paas.cmbchina.com, mbmodule-openapi.paas.cmbchina.com,mbasecc.bas.cmbchina.com, mbasecc.bcs.cmbchina.com, intellicc.bas.cmbchina.com, intellicc.bcs.cmbchina.com,mlife.jf365.boc.cn,
+m.client.10010.com, m1.ad.10010.com, res.mall.10010.cn,cloud.189.cn, zt-app.go189.cn,app-izz.zhengzhou.gov.cn
